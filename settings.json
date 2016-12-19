@@ -1,0 +1,12 @@
+{
+  "editor.tabSize": 2,
+  "editor.rulers": [99],
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 16,
+  "editor.fontLigatures": true,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "stylelint.enable": true,
+  "window.zoomLevel": 0,
+  "workbench.statusBar.visible": false
+}
